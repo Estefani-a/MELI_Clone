@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Volkswagen Fox 1.6 Connect",
+    "imageUrl": "placeholderImage",
+    "price": 2200000.00,
+    "year": 2019,
+    "km": 370000,
+    "currency": "ARS"
+  },
+  {
+      "title": "Volkswagen Fox 1.6 Connect",
+      "imageUrl": "placeholderImage",
+      "price": 2200000.00,
+      "year": 2019,
+      "km": 370000,
+      "currency": "ARS"
+  }
+]

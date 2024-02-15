@@ -1,0 +1,3473 @@
+[
+    {
+        "code": 200,
+        "body": {
+            "id": "MLA1186095724",
+            "site_id": "MLA",
+            "title": "Departamento - General Paz",
+            "subtitle": null,
+            "seller_id": 1186131933,
+            "category_id": "MLA401686",
+            "official_store_id": null,
+            "price": 74000,
+            "base_price": 74000,
+            "original_price": null,
+            "currency_id": "USD",
+            "initial_quantity": 1,
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "sale_terms": [
+                {
+                    "id": "IS_FINANCEABLE",
+                    "name": "Es financiable",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ]
+                }
+            ],
+            "buying_mode": "classified",
+            "listing_type_id": "gold_premium",
+            "start_time": "2022-10-06T17:16:55.000Z",
+            "stop_time": "2022-10-26T18:17:15.000Z",
+            "condition": "used",
+            "permalink": "https://departamento.mercadolibre.com.ar/MLA-1186095724-departamento-general-paz-_JM",
+            "thumbnail_id": "752339-MLA51838406023_102022",
+            "thumbnail": "http://http2.mlstatic.com/D_752339-MLA51838406023_102022-I.jpg",
+            "secure_thumbnail": "https://http2.mlstatic.com/D_752339-MLA51838406023_102022-I.jpg",
+            "pictures": [
+                {
+                    "id": "752339-MLA51838406023_102022",
+                    "url": "http://http2.mlstatic.com/D_752339-MLA51838406023_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_752339-MLA51838406023_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "659446-MLA51838406028_102022",
+                    "url": "http://http2.mlstatic.com/D_659446-MLA51838406028_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_659446-MLA51838406028_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "808550-MLA51838406005_102022",
+                    "url": "http://http2.mlstatic.com/D_808550-MLA51838406005_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_808550-MLA51838406005_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "904708-MLA51838406018_102022",
+                    "url": "http://http2.mlstatic.com/D_904708-MLA51838406018_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_904708-MLA51838406018_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "669103-MLA51838406010_102022",
+                    "url": "http://http2.mlstatic.com/D_669103-MLA51838406010_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_669103-MLA51838406010_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "932219-MLA51838406003_102022",
+                    "url": "http://http2.mlstatic.com/D_932219-MLA51838406003_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_932219-MLA51838406003_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "744138-MLA51838406016_102022",
+                    "url": "http://http2.mlstatic.com/D_744138-MLA51838406016_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_744138-MLA51838406016_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "784430-MLA51838406012_102022",
+                    "url": "http://http2.mlstatic.com/D_784430-MLA51838406012_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_784430-MLA51838406012_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "811307-MLA51838406006_102022",
+                    "url": "http://http2.mlstatic.com/D_811307-MLA51838406006_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_811307-MLA51838406006_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "980190-MLA51838406007_102022",
+                    "url": "http://http2.mlstatic.com/D_980190-MLA51838406007_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_980190-MLA51838406007_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "786497-MLA51838406013_102022",
+                    "url": "http://http2.mlstatic.com/D_786497-MLA51838406013_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_786497-MLA51838406013_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "776328-MLA51838406004_102022",
+                    "url": "http://http2.mlstatic.com/D_776328-MLA51838406004_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_776328-MLA51838406004_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "614116-MLA51838406022_102022",
+                    "url": "http://http2.mlstatic.com/D_614116-MLA51838406022_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_614116-MLA51838406022_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "840099-MLA51838406019_102022",
+                    "url": "http://http2.mlstatic.com/D_840099-MLA51838406019_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_840099-MLA51838406019_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "720673-MLA51838406009_102022",
+                    "url": "http://http2.mlstatic.com/D_720673-MLA51838406009_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_720673-MLA51838406009_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "912423-MLA51838406014_102022",
+                    "url": "http://http2.mlstatic.com/D_912423-MLA51838406014_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_912423-MLA51838406014_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "690830-MLA51838406008_102022",
+                    "url": "http://http2.mlstatic.com/D_690830-MLA51838406008_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_690830-MLA51838406008_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "820032-MLA51838406026_102022",
+                    "url": "http://http2.mlstatic.com/D_820032-MLA51838406026_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_820032-MLA51838406026_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "877171-MLA51838406011_102022",
+                    "url": "http://http2.mlstatic.com/D_877171-MLA51838406011_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_877171-MLA51838406011_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "916016-MLA51838406017_102022",
+                    "url": "http://http2.mlstatic.com/D_916016-MLA51838406017_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_916016-MLA51838406017_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "776625-MLA51838406020_102022",
+                    "url": "http://http2.mlstatic.com/D_776625-MLA51838406020_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_776625-MLA51838406020_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "684345-MLA51838406015_102022",
+                    "url": "http://http2.mlstatic.com/D_684345-MLA51838406015_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_684345-MLA51838406015_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "983542-MLA51838406024_102022",
+                    "url": "http://http2.mlstatic.com/D_983542-MLA51838406024_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_983542-MLA51838406024_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "634122-MLA51838406027_102022",
+                    "url": "http://http2.mlstatic.com/D_634122-MLA51838406027_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_634122-MLA51838406027_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "699057-MLA51838406025_102022",
+                    "url": "http://http2.mlstatic.com/D_699057-MLA51838406025_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_699057-MLA51838406025_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                },
+                {
+                    "id": "618210-MLA51838406021_102022",
+                    "url": "http://http2.mlstatic.com/D_618210-MLA51838406021_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_618210-MLA51838406021_102022-O.jpg",
+                    "size": "375x500",
+                    "max_size": "900x1200",
+                    "quality": ""
+                }
+            ],
+            "video_id": "HmT9vFoqmZI;youtube",
+            "descriptions": [],
+            "accepts_mercadopago": false,
+            "non_mercado_pago_payment_methods": [],
+            "shipping": {
+                "mode": "not_specified",
+                "methods": [],
+                "tags": [],
+                "dimensions": null,
+                "local_pick_up": false,
+                "free_shipping": false,
+                "logistic_type": "not_specified",
+                "store_pick_up": false
+            },
+            "international_delivery_mode": "none",
+            "seller_address": {
+                "city": {
+                    "id": "TUxBQ0NBUGNiZGQx",
+                    "name": "Córdoba"
+                },
+                "state": {
+                    "id": "AR-X",
+                    "name": "Córdoba"
+                },
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "search_location": {
+                    "city": {
+                        "id": "TUxBQ0NBUGNiZGQx",
+                        "name": "Córdoba"
+                    },
+                    "state": {
+                        "id": "TUxBUENPUmFkZGIw",
+                        "name": "Córdoba"
+                    }
+                },
+                "id": 1251240158
+            },
+            "seller_contact": {
+                "contact": "",
+                "other_info": "",
+                "country_code": "",
+                "area_code": "",
+                "phone": "",
+                "country_code2": "",
+                "area_code2": "",
+                "phone2": "",
+                "email": "",
+                "webpage": ""
+            },
+            "location": {
+                "address_line": "24 de Septiembre al 1600",
+                "zip_code": "",
+                "neighborhood": {
+                    "id": "TUxBQkdFTjc0OTVa",
+                    "name": "General Paz"
+                },
+                "city": {
+                    "id": "TUxBQ0NBUGNiZGQx",
+                    "name": "Córdoba"
+                },
+                "state": {
+                    "id": "TUxBUENPUmFkZGIw",
+                    "name": "Córdoba"
+                },
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                }
+            },
+            "coverage_areas": [],
+            "attributes": [
+                {
+                    "id": "HAS_BALCONY",
+                    "name": "Balcón",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_BEDROOM_SUITE",
+                    "name": "Dormitorio en suite",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_BREAKFAST_BAR",
+                    "name": "Desayunador",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_CLOSET",
+                    "name": "Placards",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_DINNING_ROOM",
+                    "name": "Comedor",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_DRESSING_ROOM",
+                    "name": "Vestidor",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_GARDEN",
+                    "name": "Jardín",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_GRILL",
+                    "name": "Parrilla",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_HALF_BATH",
+                    "name": "Toilette",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_KITCHEN",
+                    "name": "Cocina",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_LAUNDRY",
+                    "name": "Lavadero",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_LIVING_ROOM",
+                    "name": "Living",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_MAID_ROOM",
+                    "name": "Dependencia de servicio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_PATIO",
+                    "name": "Patio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_PLAYROOM",
+                    "name": "Playroom",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_ROOF_GARDEN",
+                    "name": "Roof garden",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_STUDY",
+                    "name": "Estudio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_TERRACE",
+                    "name": "Terraza",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "PROFESSIONAL_USE_ALLOWED",
+                    "name": "Apto profesional",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "CARACTERISTICAS",
+                    "attribute_group_name": "Características adicionales"
+                },
+                {
+                    "id": "SUITABLE_FOR_MORTGAGE_LOAN",
+                    "name": "Apto crédito",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "CARACTERISTICAS",
+                    "attribute_group_name": "Características adicionales"
+                },
+                {
+                    "id": "HAS_AIR_CONDITIONING",
+                    "name": "Aire acondicionado",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_BOILER",
+                    "name": "Caldera",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_BUSINESS_CENTER",
+                    "name": "Business center",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_CINEMA_HALL",
+                    "name": "Área de cine",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_CISTERN",
+                    "name": "Cisterna",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_COMMON_LAUNDRY",
+                    "name": "Laundry",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_GUEST_PARKING",
+                    "name": "Estacionamiento para visitantes",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_GYM",
+                    "name": "Gimnasio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_HEATING",
+                    "name": "Calefacción",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_INDOOR_FIREPLACE",
+                    "name": "Chimenea",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_INTERNET_ACCESS",
+                    "name": "Acceso a internet",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_JACUZZI",
+                    "name": "Jacuzzi",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_LIFT",
+                    "name": "Ascensor",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_MULTIPURPOSE_ROOM",
+                    "name": "Salón de usos múltiples",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_NATURAL_GAS",
+                    "name": "Gas natural",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_PARTY_ROOM",
+                    "name": "Salón de fiestas",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_PLAYGROUND",
+                    "name": "Área de juegos infantiles",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_SECURITY",
+                    "name": "Seguridad 24 horas",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_SWIMMING_POOL",
+                    "name": "Pileta",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TAP_WATER",
+                    "name": "Agua corriente",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TELEPHONE_LINE",
+                    "name": "Línea telefónica",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TENNIS_COURT",
+                    "name": "Cancha de tenis",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "APARTMENTS_PER_FLOOR",
+                    "name": "Departamentos por piso",
+                    "value_id": null,
+                    "value_name": "4",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "4",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "BEDROOMS",
+                    "name": "Dormitorios",
+                    "value_id": null,
+                    "value_name": "2",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "2",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "COVERED_AREA",
+                    "name": "Superficie cubierta",
+                    "value_id": null,
+                    "value_name": "78 m²",
+                    "value_struct": {
+                        "number": 78,
+                        "unit": "m²"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "78 m²",
+                            "struct": {
+                                "number": 78,
+                                "unit": "m²"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "DISPOSITION",
+                    "name": "Disposición",
+                    "value_id": "242077",
+                    "value_name": "Frente",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242077",
+                            "name": "Frente",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FACING",
+                    "name": "Orientación",
+                    "value_id": "242327",
+                    "value_name": "Norte",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242327",
+                            "name": "Norte",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FLOORS",
+                    "name": "Cantidad de pisos",
+                    "value_id": null,
+                    "value_name": "0",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FULL_BATHROOMS",
+                    "name": "Baños",
+                    "value_id": null,
+                    "value_name": "2",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "2",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "MAINTENANCE_FEE",
+                    "name": "Expensas",
+                    "value_id": null,
+                    "value_name": "6995 ARS",
+                    "value_struct": {
+                        "number": 6995,
+                        "unit": "ARS"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "6995 ARS",
+                            "struct": {
+                                "number": 6995,
+                                "unit": "ARS"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "PARKING_LOTS",
+                    "name": "Cocheras",
+                    "value_id": null,
+                    "value_name": "0",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "PROPERTY_AGE",
+                    "name": "Antigüedad",
+                    "value_id": null,
+                    "value_name": "1 años",
+                    "value_struct": {
+                        "number": 1,
+                        "unit": "años"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1 años",
+                            "struct": {
+                                "number": 1,
+                                "unit": "años"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "ROOMS",
+                    "name": "Ambientes",
+                    "value_id": null,
+                    "value_name": "3",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "3",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "TOTAL_AREA",
+                    "name": "Superficie total",
+                    "value_id": null,
+                    "value_name": "0 m²",
+                    "value_struct": {
+                        "number": 0,
+                        "unit": "m²"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0 m²",
+                            "struct": {
+                                "number": 0,
+                                "unit": "m²"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "UNIT_FLOOR",
+                    "name": "Número de piso de la unidad",
+                    "value_id": null,
+                    "value_name": "7",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "7",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "WAREHOUSES",
+                    "name": "Bodegas",
+                    "value_id": null,
+                    "value_name": "0",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "OPERATION",
+                    "name": "Operación",
+                    "value_id": "242075",
+                    "value_name": "Venta",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242075",
+                            "name": "Venta",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "OPERATION_SUBTYPE",
+                    "name": "Subtipo de operación",
+                    "value_id": "244562",
+                    "value_name": "Propiedad individual",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "244562",
+                            "name": "Propiedad individual",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "PROPERTY_TYPE",
+                    "name": "Inmueble",
+                    "value_id": "242062",
+                    "value_name": "Departamento",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242062",
+                            "name": "Departamento",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "APARTMENT_NUMBER",
+                    "name": "Número del departamento",
+                    "value_id": null,
+                    "value_name": "7 B",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "7 B",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "WITH_VIRTUAL_TOUR",
+                    "name": "Tour virtual",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "warnings": [],
+            "listing_source": "",
+            "variations": [],
+            "status": "active",
+            "sub_status": [
+                "pack_quota_assigned"
+            ],
+            "tags": [
+                "good_quality_picture",
+                "good_quality_thumbnail"
+            ],
+            "warranty": null,
+            "catalog_product_id": null,
+            "domain_id": "MLA-INDIVIDUAL_APARTMENTS_FOR_SALE",
+            "parent_item_id": null,
+            "differential_pricing": null,
+            "deal_ids": [],
+            "automatic_relist": false,
+            "date_created": "2022-10-06T17:16:56.000Z",
+            "last_updated": "2022-10-13T21:31:21.000Z",
+            "health": 1,
+            "catalog_listing": false,
+            "channels": [
+                "marketplace"
+            ]
+        }
+    },
+    
+    {
+        "code": 200,
+        "body": {
+            "id": "MLA1190134666",
+            "site_id": "MLA",
+            "title": "Venta - Monoambiente- Centro - Oportunidad - Financiacion - Apto Profesional -",
+            "subtitle": null,
+            "seller_id": 418539414,
+            "category_id": "MLA401686",
+            "official_store_id": 2743,
+            "price": 40580,
+            "base_price": 40580,
+            "original_price": null,
+            "currency_id": "USD",
+            "initial_quantity": 1,
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "sale_terms": [
+                {
+                    "id": "IS_FINANCEABLE",
+                    "name": "Es financiable",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ]
+                }
+            ],
+            "buying_mode": "classified",
+            "listing_type_id": "gold_premium",
+            "start_time": "2022-10-11T18:42:58.000Z",
+            "stop_time": "2023-10-11T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://departamento.mercadolibre.com.ar/MLA-1190134666-venta-monoambiente-centro-oportunidad-financiacion-apto-profesional--_JM",
+            "thumbnail_id": "979201-MLA51903768000_102022",
+            "thumbnail": "http://http2.mlstatic.com/D_979201-MLA51903768000_102022-I.jpg",
+            "secure_thumbnail": "https://http2.mlstatic.com/D_979201-MLA51903768000_102022-I.jpg",
+            "pictures": [
+                {
+                    "id": "979201-MLA51903768000_102022",
+                    "url": "http://http2.mlstatic.com/D_979201-MLA51903768000_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_979201-MLA51903768000_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "650374-MLA51903771004_102022",
+                    "url": "http://http2.mlstatic.com/D_650374-MLA51903771004_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_650374-MLA51903771004_102022-O.jpg",
+                    "size": "307x500",
+                    "max_size": "554x900",
+                    "quality": ""
+                },
+                {
+                    "id": "683260-MLA51903771015_102022",
+                    "url": "http://http2.mlstatic.com/D_683260-MLA51903771015_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_683260-MLA51903771015_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "950443-MLA51903771005_102022",
+                    "url": "http://http2.mlstatic.com/D_950443-MLA51903771005_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_950443-MLA51903771005_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "996456-MLA51903771011_102022",
+                    "url": "http://http2.mlstatic.com/D_996456-MLA51903771011_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_996456-MLA51903771011_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "795998-MLA51903771020_102022",
+                    "url": "http://http2.mlstatic.com/D_795998-MLA51903771020_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_795998-MLA51903771020_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "703906-MLA51903771026_102022",
+                    "url": "http://http2.mlstatic.com/D_703906-MLA51903771026_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_703906-MLA51903771026_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "604251-MLA51903771016_102022",
+                    "url": "http://http2.mlstatic.com/D_604251-MLA51903771016_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_604251-MLA51903771016_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "679981-MLA51903771014_102022",
+                    "url": "http://http2.mlstatic.com/D_679981-MLA51903771014_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_679981-MLA51903771014_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "651125-MLA51903771003_102022",
+                    "url": "http://http2.mlstatic.com/D_651125-MLA51903771003_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_651125-MLA51903771003_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "869933-MLA51903767999_102022",
+                    "url": "http://http2.mlstatic.com/D_869933-MLA51903767999_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_869933-MLA51903767999_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "693560-MLA51903771023_102022",
+                    "url": "http://http2.mlstatic.com/D_693560-MLA51903771023_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_693560-MLA51903771023_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "709314-MLA51903771002_102022",
+                    "url": "http://http2.mlstatic.com/D_709314-MLA51903771002_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_709314-MLA51903771002_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "633203-MLA51903771024_102022",
+                    "url": "http://http2.mlstatic.com/D_633203-MLA51903771024_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_633203-MLA51903771024_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "743207-MLA51903771027_102022",
+                    "url": "http://http2.mlstatic.com/D_743207-MLA51903771027_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_743207-MLA51903771027_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "921719-MLA51903771017_102022",
+                    "url": "http://http2.mlstatic.com/D_921719-MLA51903771017_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_921719-MLA51903771017_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "970413-MLA51903771025_102022",
+                    "url": "http://http2.mlstatic.com/D_970413-MLA51903771025_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_970413-MLA51903771025_102022-O.jpg",
+                    "size": "500x281",
+                    "max_size": "1200x675",
+                    "quality": ""
+                },
+                {
+                    "id": "729690-MLA51903771008_102022",
+                    "url": "http://http2.mlstatic.com/D_729690-MLA51903771008_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_729690-MLA51903771008_102022-O.jpg",
+                    "size": "500x281",
+                    "max_size": "1200x675",
+                    "quality": ""
+                },
+                {
+                    "id": "727016-MLA51903771009_102022",
+                    "url": "http://http2.mlstatic.com/D_727016-MLA51903771009_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_727016-MLA51903771009_102022-O.jpg",
+                    "size": "500x281",
+                    "max_size": "1200x675",
+                    "quality": ""
+                },
+                {
+                    "id": "874807-MLA51903771018_102022",
+                    "url": "http://http2.mlstatic.com/D_874807-MLA51903771018_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_874807-MLA51903771018_102022-O.jpg",
+                    "size": "307x500",
+                    "max_size": "554x900",
+                    "quality": ""
+                },
+                {
+                    "id": "868166-MLA51903771001_102022",
+                    "url": "http://http2.mlstatic.com/D_868166-MLA51903771001_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_868166-MLA51903771001_102022-O.jpg",
+                    "size": "500x281",
+                    "max_size": "1200x675",
+                    "quality": ""
+                },
+                {
+                    "id": "902193-MLA51903771021_102022",
+                    "url": "http://http2.mlstatic.com/D_902193-MLA51903771021_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_902193-MLA51903771021_102022-O.jpg",
+                    "size": "500x281",
+                    "max_size": "1200x675",
+                    "quality": ""
+                },
+                {
+                    "id": "741470-MLA51903771012_102022",
+                    "url": "http://http2.mlstatic.com/D_741470-MLA51903771012_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_741470-MLA51903771012_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "724729-MLA51903771022_102022",
+                    "url": "http://http2.mlstatic.com/D_724729-MLA51903771022_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_724729-MLA51903771022_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "669034-MLA51903771019_102022",
+                    "url": "http://http2.mlstatic.com/D_669034-MLA51903771019_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_669034-MLA51903771019_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "759104-MLA51903771010_102022",
+                    "url": "http://http2.mlstatic.com/D_759104-MLA51903771010_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_759104-MLA51903771010_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "789891-MLA51903771028_102022",
+                    "url": "http://http2.mlstatic.com/D_789891-MLA51903771028_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_789891-MLA51903771028_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "964929-MLA51903771013_102022",
+                    "url": "http://http2.mlstatic.com/D_964929-MLA51903771013_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_964929-MLA51903771013_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "828329-MLA51903771006_102022",
+                    "url": "http://http2.mlstatic.com/D_828329-MLA51903771006_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_828329-MLA51903771006_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                },
+                {
+                    "id": "877922-MLA51903771007_102022",
+                    "url": "http://http2.mlstatic.com/D_877922-MLA51903771007_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_877922-MLA51903771007_102022-O.jpg",
+                    "size": "500x333",
+                    "max_size": "1200x800",
+                    "quality": ""
+                }
+            ],
+            "video_id": "StnX6TcGXIs;youtube",
+            "descriptions": [],
+            "accepts_mercadopago": false,
+            "non_mercado_pago_payment_methods": [],
+            "shipping": {
+                "mode": "not_specified",
+                "methods": [],
+                "tags": [],
+                "dimensions": null,
+                "local_pick_up": false,
+                "free_shipping": false,
+                "logistic_type": null,
+                "store_pick_up": false
+            },
+            "international_delivery_mode": "none",
+            "seller_address": {
+                "city": {
+                    "id": "TUxBQlBBTDg3OTha",
+                    "name": "Palermo Chico"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "search_location": {
+                    "neighborhood": {
+                        "id": "TUxBQlBBTDg3OTha",
+                        "name": "Palermo Chico"
+                    },
+                    "city": {
+                        "id": "TUxBQ0NBUGZlZG1sYQ",
+                        "name": "Capital Federal"
+                    },
+                    "state": {
+                        "id": "TUxBUENBUGw3M2E1",
+                        "name": "Capital Federal"
+                    }
+                },
+                "id": 1030088593
+            },
+            "seller_contact": {
+                "contact": "",
+                "other_info": "",
+                "country_code": "",
+                "area_code": "",
+                "phone": "",
+                "country_code2": "",
+                "area_code2": "",
+                "phone2": "",
+                "email": "",
+                "webpage": ""
+            },
+            "location": {
+                "address_line": "Adolfo Alsina al 1200",
+                "zip_code": "",
+                "neighborhood": {
+                    "id": "TUxBQk1PTjUxOTJa",
+                    "name": "Monserrat"
+                },
+                "city": {
+                    "id": "TUxBQ0NBUGZlZG1sYQ",
+                    "name": "Capital Federal"
+                },
+                "state": {
+                    "id": "TUxBUENBUGw3M2E1",
+                    "name": "Capital Federal"
+                },
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                }
+            },
+            "coverage_areas": [],
+            "attributes": [
+                {
+                    "id": "HAS_BALCONY",
+                    "name": "Balcón",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_DINNING_ROOM",
+                    "name": "Comedor",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_DRESSING_ROOM",
+                    "name": "Vestidor",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_GARDEN",
+                    "name": "Jardín",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_GRILL",
+                    "name": "Parrilla",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_HALF_BATH",
+                    "name": "Toilette",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_KITCHEN",
+                    "name": "Cocina",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_LAUNDRY",
+                    "name": "Lavadero",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_LIVING_ROOM",
+                    "name": "Living",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_MAID_ROOM",
+                    "name": "Dependencia de servicio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_PATIO",
+                    "name": "Patio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_PLAYROOM",
+                    "name": "Playroom",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_STUDY",
+                    "name": "Estudio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_TERRACE",
+                    "name": "Terraza",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "PROFESSIONAL_USE_ALLOWED",
+                    "name": "Apto profesional",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "CARACTERISTICAS",
+                    "attribute_group_name": "Características adicionales"
+                },
+                {
+                    "id": "SUITABLE_FOR_MORTGAGE_LOAN",
+                    "name": "Apto crédito",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "CARACTERISTICAS",
+                    "attribute_group_name": "Características adicionales"
+                },
+                {
+                    "id": "HAS_AIR_CONDITIONING",
+                    "name": "Aire acondicionado",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_GYM",
+                    "name": "Gimnasio",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_HEATING",
+                    "name": "Calefacción",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_INTERNET_ACCESS",
+                    "name": "Acceso a internet",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_JACUZZI",
+                    "name": "Jacuzzi",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_MULTIPURPOSE_ROOM",
+                    "name": "Salón de usos múltiples",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_NATURAL_GAS",
+                    "name": "Gas natural",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_SECURITY",
+                    "name": "Seguridad 24 horas",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_SWIMMING_POOL",
+                    "name": "Pileta",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TAP_WATER",
+                    "name": "Agua corriente",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TELEPHONE_LINE",
+                    "name": "Línea telefónica",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "BEDROOMS",
+                    "name": "Dormitorios",
+                    "value_id": null,
+                    "value_name": "0",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "COVERED_AREA",
+                    "name": "Superficie cubierta",
+                    "value_id": null,
+                    "value_name": "19 m²",
+                    "value_struct": {
+                        "number": 19,
+                        "unit": "m²"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "19 m²",
+                            "struct": {
+                                "number": 19,
+                                "unit": "m²"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "DISPOSITION",
+                    "name": "Disposición",
+                    "value_id": "242077",
+                    "value_name": "Frente",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242077",
+                            "name": "Frente",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FLOORS",
+                    "name": "Cantidad de pisos",
+                    "value_id": null,
+                    "value_name": "12",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "12",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FULL_BATHROOMS",
+                    "name": "Baños",
+                    "value_id": null,
+                    "value_name": "1",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "MAINTENANCE_FEE",
+                    "name": "Expensas",
+                    "value_id": null,
+                    "value_name": "0 ARS",
+                    "value_struct": {
+                        "number": 0,
+                        "unit": "ARS"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0 ARS",
+                            "struct": {
+                                "number": 0,
+                                "unit": "ARS"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "PARKING_LOTS",
+                    "name": "Cocheras",
+                    "value_id": null,
+                    "value_name": "0",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "PROPERTY_AGE",
+                    "name": "Antigüedad",
+                    "value_id": null,
+                    "value_name": "0 años",
+                    "value_struct": {
+                        "number": 0,
+                        "unit": "años"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0 años",
+                            "struct": {
+                                "number": 0,
+                                "unit": "años"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "ROOMS",
+                    "name": "Ambientes",
+                    "value_id": null,
+                    "value_name": "1",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "TOTAL_AREA",
+                    "name": "Superficie total",
+                    "value_id": null,
+                    "value_name": "24 m²",
+                    "value_struct": {
+                        "number": 24,
+                        "unit": "m²"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "24 m²",
+                            "struct": {
+                                "number": 24,
+                                "unit": "m²"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "OPERATION",
+                    "name": "Operación",
+                    "value_id": "242075",
+                    "value_name": "Venta",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242075",
+                            "name": "Venta",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "OPERATION_SUBTYPE",
+                    "name": "Subtipo de operación",
+                    "value_id": "244562",
+                    "value_name": "Propiedad individual",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "244562",
+                            "name": "Propiedad individual",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "PROPERTY_TYPE",
+                    "name": "Inmueble",
+                    "value_id": "242062",
+                    "value_name": "Departamento",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242062",
+                            "name": "Departamento",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "WITH_VIRTUAL_TOUR",
+                    "name": "Tour virtual",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "warnings": [],
+            "listing_source": "",
+            "variations": [],
+            "status": "active",
+            "sub_status": [
+                "pack_quota_assigned"
+            ],
+            "tags": [
+                "good_quality_picture",
+                "good_quality_thumbnail"
+            ],
+            "warranty": null,
+            "catalog_product_id": null,
+            "domain_id": "MLA-INDIVIDUAL_APARTMENTS_FOR_SALE",
+            "parent_item_id": null,
+            "differential_pricing": null,
+            "deal_ids": [],
+            "automatic_relist": false,
+            "date_created": "2022-10-11T18:42:59.000Z",
+            "last_updated": "2022-10-14T12:24:47.000Z",
+            "health": 0.75,
+            "catalog_listing": false,
+            "channels": [
+                "marketplace"
+            ]
+        }
+    },
+    {
+        "code": 200,
+        "body": {
+            "id": "MLA1186031529",
+            "site_id": "MLA",
+            "title": "Venta Departamento 3 Ambientes A Estrenar Terraza Y Cochera (opcional)  Floresta",
+            "subtitle": null,
+            "seller_id": 482702462,
+            "category_id": "MLA401686",
+            "official_store_id": 2016,
+            "price": 98000,
+            "base_price": 98000,
+            "original_price": null,
+            "currency_id": "USD",
+            "initial_quantity": 1,
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "sale_terms": [
+                {
+                    "id": "IS_FINANCEABLE",
+                    "name": "Es financiable",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ]
+                }
+            ],
+            "buying_mode": "classified",
+            "listing_type_id": "gold_premium",
+            "start_time": "2022-10-06T16:12:52.000Z",
+            "stop_time": "2022-11-08T19:17:49.000Z",
+            "condition": "new",
+            "permalink": "https://departamento.mercadolibre.com.ar/MLA-1186031529-venta-departamento-3-ambientes-a-estrenar-terraza-y-cochera-opcional-floresta-_JM",
+            "thumbnail_id": "709854-MLA51837606529_102022",
+            "thumbnail": "http://http2.mlstatic.com/D_709854-MLA51837606529_102022-I.jpg",
+            "secure_thumbnail": "https://http2.mlstatic.com/D_709854-MLA51837606529_102022-I.jpg",
+            "pictures": [
+                {
+                    "id": "709854-MLA51837606529_102022",
+                    "url": "http://http2.mlstatic.com/D_709854-MLA51837606529_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_709854-MLA51837606529_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "741635-MLA51837606514_102022",
+                    "url": "http://http2.mlstatic.com/D_741635-MLA51837606514_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_741635-MLA51837606514_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "912992-MLA51837606523_102022",
+                    "url": "http://http2.mlstatic.com/D_912992-MLA51837606523_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_912992-MLA51837606523_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "890064-MLA51837606531_102022",
+                    "url": "http://http2.mlstatic.com/D_890064-MLA51837606531_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_890064-MLA51837606531_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "927017-MLA51837606524_102022",
+                    "url": "http://http2.mlstatic.com/D_927017-MLA51837606524_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_927017-MLA51837606524_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "641727-MLA51837606521_102022",
+                    "url": "http://http2.mlstatic.com/D_641727-MLA51837606521_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_641727-MLA51837606521_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "752090-MLA51837606525_102022",
+                    "url": "http://http2.mlstatic.com/D_752090-MLA51837606525_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_752090-MLA51837606525_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "689802-MLA51837606518_102022",
+                    "url": "http://http2.mlstatic.com/D_689802-MLA51837606518_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_689802-MLA51837606518_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "821942-MLA51837606533_102022",
+                    "url": "http://http2.mlstatic.com/D_821942-MLA51837606533_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_821942-MLA51837606533_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "771293-MLA51837606526_102022",
+                    "url": "http://http2.mlstatic.com/D_771293-MLA51837606526_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_771293-MLA51837606526_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "876522-MLA51837606528_102022",
+                    "url": "http://http2.mlstatic.com/D_876522-MLA51837606528_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_876522-MLA51837606528_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "908058-MLA51837606522_102022",
+                    "url": "http://http2.mlstatic.com/D_908058-MLA51837606522_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_908058-MLA51837606522_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "852385-MLA51837606520_102022",
+                    "url": "http://http2.mlstatic.com/D_852385-MLA51837606520_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_852385-MLA51837606520_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "636829-MLA51837606516_102022",
+                    "url": "http://http2.mlstatic.com/D_636829-MLA51837606516_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_636829-MLA51837606516_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "604884-MLA51837606515_102022",
+                    "url": "http://http2.mlstatic.com/D_604884-MLA51837606515_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_604884-MLA51837606515_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "699657-MLA51837606519_102022",
+                    "url": "http://http2.mlstatic.com/D_699657-MLA51837606519_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_699657-MLA51837606519_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "903694-MLA51837606532_102022",
+                    "url": "http://http2.mlstatic.com/D_903694-MLA51837606532_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_903694-MLA51837606532_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "853999-MLA51837606527_102022",
+                    "url": "http://http2.mlstatic.com/D_853999-MLA51837606527_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_853999-MLA51837606527_102022-O.jpg",
+                    "size": "500x375",
+                    "max_size": "1200x900",
+                    "quality": ""
+                },
+                {
+                    "id": "681870-MLA51837606517_102022",
+                    "url": "http://http2.mlstatic.com/D_681870-MLA51837606517_102022-O.jpg",
+                    "secure_url": "https://http2.mlstatic.com/D_681870-MLA51837606517_102022-O.jpg",
+                    "size": "500x415",
+                    "max_size": "927x770",
+                    "quality": ""
+                }
+            ],
+            "video_id": "WNBv5iy8apo;youtube",
+            "descriptions": [],
+            "accepts_mercadopago": false,
+            "non_mercado_pago_payment_methods": [],
+            "shipping": {
+                "mode": "not_specified",
+                "methods": [],
+                "tags": [],
+                "dimensions": null,
+                "local_pick_up": false,
+                "free_shipping": false,
+                "logistic_type": null,
+                "store_pick_up": false
+            },
+            "international_delivery_mode": "none",
+            "seller_address": {
+                "city": {
+                    "id": "TUxBQk7a0TcwOTRa",
+                    "name": "Núñez"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "search_location": {
+                    "neighborhood": {
+                        "id": "TUxBQk7a0TcwOTRa",
+                        "name": "Núñez"
+                    },
+                    "city": {
+                        "id": "TUxBQ0NBUGZlZG1sYQ",
+                        "name": "Capital Federal"
+                    },
+                    "state": {
+                        "id": "TUxBUENBUGw3M2E1",
+                        "name": "Capital Federal"
+                    }
+                },
+                "id": 1070365592
+            },
+            "seller_contact": {
+                "contact": "",
+                "other_info": "",
+                "country_code": "",
+                "area_code": "",
+                "phone": "",
+                "country_code2": "",
+                "area_code2": "",
+                "phone2": "",
+                "email": "",
+                "webpage": ""
+            },
+            "location": {
+                "address_line": "Ramon Falcon al 3700",
+                "zip_code": "",
+                "neighborhood": {
+                    "id": "TUxBQkZMTzg5MjFa",
+                    "name": "Floresta"
+                },
+                "city": {
+                    "id": "TUxBQ0NBUGZlZG1sYQ",
+                    "name": "Capital Federal"
+                },
+                "state": {
+                    "id": "TUxBUENBUGw3M2E1",
+                    "name": "Capital Federal"
+                },
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                }
+            },
+            "coverage_areas": [],
+            "attributes": [
+                {
+                    "id": "HAS_BALCONY",
+                    "name": "Balcón",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_DINNING_ROOM",
+                    "name": "Comedor",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_DRESSING_ROOM",
+                    "name": "Vestidor",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_GARDEN",
+                    "name": "Jardín",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_GRILL",
+                    "name": "Parrilla",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_HALF_BATH",
+                    "name": "Toilette",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_KITCHEN",
+                    "name": "Cocina",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_LAUNDRY",
+                    "name": "Lavadero",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_LIVING_ROOM",
+                    "name": "Living",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_MAID_ROOM",
+                    "name": "Dependencia de servicio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_PATIO",
+                    "name": "Patio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_PLAYROOM",
+                    "name": "Playroom",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_STUDY",
+                    "name": "Estudio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "HAS_TERRACE",
+                    "name": "Terraza",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "AMBIENTES",
+                    "attribute_group_name": "Ambientes"
+                },
+                {
+                    "id": "PROFESSIONAL_USE_ALLOWED",
+                    "name": "Apto profesional",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "CARACTERISTICAS",
+                    "attribute_group_name": "Características adicionales"
+                },
+                {
+                    "id": "SUITABLE_FOR_MORTGAGE_LOAN",
+                    "name": "Apto crédito",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "CARACTERISTICAS",
+                    "attribute_group_name": "Características adicionales"
+                },
+                {
+                    "id": "HAS_AIR_CONDITIONING",
+                    "name": "Aire acondicionado",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_GYM",
+                    "name": "Gimnasio",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_HEATING",
+                    "name": "Calefacción",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_INTERNET_ACCESS",
+                    "name": "Acceso a internet",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_JACUZZI",
+                    "name": "Jacuzzi",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_MULTIPURPOSE_ROOM",
+                    "name": "Salón de usos múltiples",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_NATURAL_GAS",
+                    "name": "Gas natural",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_SECURITY",
+                    "name": "Seguridad 24 horas",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_SWIMMING_POOL",
+                    "name": "Pileta",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TAP_WATER",
+                    "name": "Agua corriente",
+                    "value_id": "242085",
+                    "value_name": "Sí",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242085",
+                            "name": "Sí",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "HAS_TELEPHONE_LINE",
+                    "name": "Línea telefónica",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "COMOYAMEN",
+                    "attribute_group_name": "Comodidades y amenities"
+                },
+                {
+                    "id": "BEDROOMS",
+                    "name": "Dormitorios",
+                    "value_id": null,
+                    "value_name": "2",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "2",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "COVERED_AREA",
+                    "name": "Superficie cubierta",
+                    "value_id": null,
+                    "value_name": "53 m²",
+                    "value_struct": {
+                        "number": 53,
+                        "unit": "m²"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "53 m²",
+                            "struct": {
+                                "number": 53,
+                                "unit": "m²"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "DISPOSITION",
+                    "name": "Disposición",
+                    "value_id": "242076",
+                    "value_name": "Contrafrente",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242076",
+                            "name": "Contrafrente",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FACING",
+                    "name": "Orientación",
+                    "value_id": "242328",
+                    "value_name": "Sur",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242328",
+                            "name": "Sur",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FLOORS",
+                    "name": "Cantidad de pisos",
+                    "value_id": null,
+                    "value_name": "0",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "FULL_BATHROOMS",
+                    "name": "Baños",
+                    "value_id": null,
+                    "value_name": "1",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "MAINTENANCE_FEE",
+                    "name": "Expensas",
+                    "value_id": null,
+                    "value_name": "4000 ARS",
+                    "value_struct": {
+                        "number": 4000,
+                        "unit": "ARS"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "4000 ARS",
+                            "struct": {
+                                "number": 4000,
+                                "unit": "ARS"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "PARKING_LOTS",
+                    "name": "Cocheras",
+                    "value_id": null,
+                    "value_name": "1",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "PROPERTY_AGE",
+                    "name": "Antigüedad",
+                    "value_id": null,
+                    "value_name": "0 años",
+                    "value_struct": {
+                        "number": 0,
+                        "unit": "años"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "0 años",
+                            "struct": {
+                                "number": 0,
+                                "unit": "años"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "ROOMS",
+                    "name": "Ambientes",
+                    "value_id": null,
+                    "value_name": "3",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "3",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "TOTAL_AREA",
+                    "name": "Superficie total",
+                    "value_id": null,
+                    "value_name": "56 m²",
+                    "value_struct": {
+                        "number": 56,
+                        "unit": "m²"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "56 m²",
+                            "struct": {
+                                "number": 56,
+                                "unit": "m²"
+                            }
+                        }
+                    ],
+                    "attribute_group_id": "FIND",
+                    "attribute_group_name": "Ficha técnica"
+                },
+                {
+                    "id": "OPERATION",
+                    "name": "Operación",
+                    "value_id": "242075",
+                    "value_name": "Venta",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242075",
+                            "name": "Venta",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "OPERATION_SUBTYPE",
+                    "name": "Subtipo de operación",
+                    "value_id": "244562",
+                    "value_name": "Propiedad individual",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "244562",
+                            "name": "Propiedad individual",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "PROPERTY_TYPE",
+                    "name": "Inmueble",
+                    "value_id": "242062",
+                    "value_name": "Departamento",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242062",
+                            "name": "Departamento",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "MAIN",
+                    "attribute_group_name": "Principales"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "id": "WITH_VIRTUAL_TOUR",
+                    "name": "Tour virtual",
+                    "value_id": "242084",
+                    "value_name": "No",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "242084",
+                            "name": "No",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "warnings": [],
+            "listing_source": "",
+            "variations": [],
+            "status": "active",
+            "sub_status": [
+                "pack_quota_assigned"
+            ],
+            "tags": [
+                "good_quality_thumbnail",
+                "good_quality_picture"
+            ],
+            "warranty": null,
+            "catalog_product_id": null,
+            "domain_id": "MLA-INDIVIDUAL_APARTMENTS_FOR_SALE",
+            "parent_item_id": null,
+            "differential_pricing": null,
+            "deal_ids": [],
+            "automatic_relist": false,
+            "date_created": "2022-10-06T16:12:52.000Z",
+            "last_updated": "2022-10-09T14:04:29.000Z",
+            "health": 0.75,
+            "catalog_listing": false,
+            "channels": [
+                "marketplace"
+            ]
+        }
+    }
+]
