@@ -33,10 +33,6 @@ You can add the plataform with the parameters: -p ios / -p android / -p mobile (
 For more infos about how to install Nativefat, check the Readme file below:
 https://github.com/mercadolibre/fury_nativefat-cli/blob/master/README.md
 
-## Author
-
-ext_feteruel, ext_feteruel@mercadolibre.com
-
 ## License
 
 app-ios-w6-code-patroll is available under the MIT license. See the LICENSE file for more info.
